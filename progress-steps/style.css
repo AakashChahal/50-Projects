@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
 
 :root {
-    --line-border-fill: #3498db;
+    --line-border-fill: #34db50;
     --line-border-empty: #6e6e6e;
 }
 
@@ -104,4 +104,5 @@ body {
     display: none;
     margin: auto;
     margin-top: 1%;
+    background-color: #3498db;
 }
